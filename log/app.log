@@ -1,0 +1,71 @@
+2020-11-29 17:49:41 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 4680 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 17:49:41 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 17:49:41 - The following profiles are active: dev
+2020-11-29 17:49:44 - Started LogApplicationTests in 4.438 seconds (JVM running for 6.729)
+2020-11-29 17:56:56 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 10384 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 17:56:56 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 17:56:56 - The following profiles are active: dev
+2020-11-29 17:57:00 - Started LogApplicationTests in 4.263 seconds (JVM running for 6.208)
+2020-11-29 18:01:07 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 6680 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:01:07 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:01:07 - The following profiles are active: dev
+2020-11-29 18:01:11 - Started LogApplicationTests in 4.384 seconds (JVM running for 6.496)
+2020-11-29 18:02:18 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 4504 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:02:18 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:02:18 - The following profiles are active: dev
+2020-11-29 18:02:24 - Started LogApplicationTests in 7.113 seconds (JVM running for 9.914)
+2020-11-29 18:02:42 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 6560 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:02:42 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:02:42 - The following profiles are active: dev
+2020-11-29 18:02:46 - Started LogApplicationTests in 4.596 seconds (JVM running for 7.169)
+2020-11-29 18:02:59 - Starting LogApplication using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 8824 (C:\Users\H P\Desktop\systemsltd\log\target\classes started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:02:59 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:02:59 - The following profiles are active: dev
+2020-11-29 18:03:01 - Started LogApplication in 3.175 seconds (JVM running for 5.084)
+2020-11-29 18:03:04 - dev environment - debug: value should not be 100
+2020-11-29 18:04:35 - Starting LogApplication using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 6628 (C:\Users\H P\Desktop\systemsltd\log\target\classes started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:04:35 - The following profiles are active: dev
+2020-11-29 18:04:37 - Started LogApplication in 3.081 seconds (JVM running for 4.815)
+2020-11-29 18:05:24 - Starting LogApplication using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 2564 (C:\Users\H P\Desktop\systemsltd\log\target\classes started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:05:24 - The following profiles are active: dev
+2020-11-29 18:05:26 - Started LogApplication in 3.118 seconds (JVM running for 4.886)
+2020-11-29 18:05:29 - dev environment - debug: value should not be 100
+2020-11-29 18:06:33 - Starting LogApplication using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 10776 (C:\Users\H P\Desktop\systemsltd\log\target\classes started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:06:33 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:06:33 - The following profiles are active: dev
+2020-11-29 18:06:35 - Started LogApplication in 3.505 seconds (JVM running for 5.289)
+2020-11-29 18:06:36 - dev environment - debug: value should not be 100
+2020-11-29 18:06:56 - dev environment - info: value is 1
+2020-11-29 18:07:42 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 5560 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:07:42 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:07:42 - The following profiles are active: dev
+2020-11-29 18:07:47 - Started LogApplicationTests in 4.896 seconds (JVM running for 6.914)
+2020-11-29 18:11:12 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 11140 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:11:12 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:11:12 - The following profiles are active: dev
+2020-11-29 18:11:16 - Started LogApplicationTests in 4.308 seconds (JVM running for 6.576)
+2020-11-29 18:12:10 - Starting LogApplication using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 1840 (C:\Users\H P\Desktop\systemsltd\log\target\classes started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:12:10 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:12:10 - The following profiles are active: dev
+2020-11-29 18:12:13 - Started LogApplication in 3.161 seconds (JVM running for 5.133)
+2020-11-29 18:12:17 - dev environment - info: value is 5
+2020-11-29 18:14:16 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 10896 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:14:16 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:14:16 - The following profiles are active: dev
+2020-11-29 18:14:19 - Started LogApplicationTests in 4.328 seconds (JVM running for 6.528)
+2020-11-29 18:16:46 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 7908 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:16:46 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:16:46 - The following profiles are active: dev
+2020-11-29 18:16:50 - Started LogApplicationTests in 4.307 seconds (JVM running for 6.531)
+2020-11-29 18:20:00 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 5996 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:20:00 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:20:00 - The following profiles are active: dev
+2020-11-29 18:20:04 - Started LogApplicationTests in 4.744 seconds (JVM running for 7.343)
+2020-11-29 18:23:21 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 9132 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:23:21 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:23:21 - The following profiles are active: dev
+2020-11-29 18:23:25 - Started LogApplicationTests in 4.493 seconds (JVM running for 6.692)
+2020-11-29 18:39:53 - Starting LogApplicationTests using Java 1.8.0_261 on DESKTOP-VS7QE74 with PID 1040 (started by H P in C:\Users\H P\Desktop\systemsltd\log)
+2020-11-29 18:39:53 - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-29 18:39:53 - The following profiles are active: dev
+2020-11-29 18:39:58 - Started LogApplicationTests in 5.25 seconds (JVM running for 8.513)

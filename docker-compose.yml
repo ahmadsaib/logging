@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  log-app-container:
+    image: log-app:latest
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - ${PWD}/log:/app
+    ports:
+      - "8001:8001"
